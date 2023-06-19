@@ -62,17 +62,17 @@ global.APIKeys = {
   'https://anabotofc.herokuapp.com/': 'AnaBot'
 }
 
-global.packname = '𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓'
-global.author = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍'
+global.packname = '𝙲𝙷𝙰𝚁𝙻𝙸𝙴-𝙻𝙸𝚃'
+global.author = '𝙲𝙷𝙰𝚁𝙻𝙸𝙴-𝙻𝙸𝚃'
 global.vs = '1.10.90'
 global.version = vs
-global.gt = '⫷᭄𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓﹏✍'
+global.gt = '𝙲𝙷𝙰𝚁𝙻𝙸𝙴-𝙻𝙸𝚃'
 global.hadesbot = gt
 global.yt = 'https://youtu.be/aPu9wQi-z8U'
 global.youtube = yt
-global.ig = 'https://www.instagram'
+global.ig = 'https://www.instagram/emx._xit'
 global.hadesig = ig
-global.md = 'https://github.com/HATSUNE-MIKU.git'
+global.md = 'https://github.com/CharlieLit.git'
 global.botxdf = md
 global.nn = 'https://chat.whatsapp.com/CG5ZPcJ22fL7QjNRzjguD0'
 global.nngrupo = nn
@@ -95,8 +95,8 @@ global.envio = eeg
 global.eg = '*🍀ʀᴇsᴜʟᴛᴀᴅᴏ ᴇɴᴄᴏɴᴛʀᴀᴅᴏ✨*'
 global.exito = eg
 
-global.wm = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍\n⫷᭄𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓﹏✍'
-global.igfg = '⫷᭄𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓﹏✍'
+global.wm = '𝙲𝙷𝙰𝚁𝙻𝙸𝙴-𝙻𝙸𝚃\n𝙲𝙷𝙰𝚁𝙻𝙸𝙴-𝙻𝙸𝚃'
+global.igfg = '𝙲𝙷𝙰𝚁𝙻𝙸𝙴-𝙻𝙸𝚃'
 global.wait = '⌛ _Cargando..._\n▰▰▰▱▱▱▱▱▱'
 
 global.imagen1 = fs.readFileSync('./src/Menu2.jpg')
